@@ -1,5 +1,5 @@
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,css,docker,html,js,php,py,unity,latex,vscode,visualstudio&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,css,docker,html,js,figma,git,github,gitlab,java,php,py,unity,latex,vscode,visualstudio&perline=10)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=haialibaba&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DieterWalker&theme=dark&hide_border=false)<br/>
