@@ -1,7 +1,9 @@
 ## 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,css,docker,html,js,php,py,unity,latex,vscode,visualstudio&perline=3)](https://skillicons.dev)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=haialibaba&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DieterWalker&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DieterWalker&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--
 **DieterWalker/DieterWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
