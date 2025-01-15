@@ -8,9 +8,9 @@ Video games are the art of their creators
 ![](https://github-readme-stats.vercel.app/api?username=DieterWalker&show_icons=true&theme=dracula)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DieterWalker&theme=dark&hide_border=false)<br/>
 # 🥇 Trophy
-<p align="center">
+<div style="text-align:center">
   [![trophy](https://github-profile-trophy.vercel.app/?username=DieterWalker&column=4&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+</div>
 <!--
 **DieterWalker/DieterWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💻 Tech Stack:
