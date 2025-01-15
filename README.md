@@ -2,12 +2,14 @@
 I am passionate about video games and particularly love creating them. I always strive to improve my skills in the field of game development specifically and programming in general.
 # 💬 Slogan: 
 Video games are the art of their creators
-# 🔥Github Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+<!-- # 🔥Github Streak:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DieterWalker&show_icons=true&theme=dracula)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DieterWalker&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DieterWalker&theme=dark&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+# 🥇 Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=DieterWalker)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **DieterWalker/DieterWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💻 Tech Stack:
