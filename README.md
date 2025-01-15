@@ -2,6 +2,8 @@
 I am passionate about video games and particularly love creating them. I always strive to improve my skills in the field of game development specifically and programming in general.
 # 💬 Slogan: 
 Video games are the art of their creators
+# 🔥Github Streak:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DieterWalker)](https://git.io/streak-stats)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DieterWalker&show_icons=true&theme=dracula)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DieterWalker&theme=dark&hide_border=false)<br/>
