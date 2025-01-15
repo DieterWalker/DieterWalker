@@ -8,6 +8,7 @@ Video games are the art of their creators
 ![](https://github-readme-stats.vercel.app/api?username=DieterWalker&show_icons=true&theme=dracula)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DieterWalker&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DieterWalker&theme=dark&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 # 🥇 Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=DieterWalker)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
