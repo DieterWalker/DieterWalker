@@ -7,8 +7,8 @@ Video games are the art of their creators
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DieterWalker&show_icons=true&theme=dracula)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DieterWalker&theme=dark&hide_border=false)<br/>
-# 🥇 Trophy
-<div style="text-align:center">
+<div align="center">
+  # 🥇 Trophy
   [![trophy](https://github-profile-trophy.vercel.app/?username=DieterWalker&column=4&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 <!--
