@@ -1,2 +1,2 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech&weight=900&size=35&duration=2000&pause=500&color=00F718&width=500&lines=HELLO+WORLD!!!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech&size=32&pause=500&repeat=false&width=435&lines=Hello+World!!!)](https://git.io/typing-svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dieterwalker&show_icons=true&theme=radical)
